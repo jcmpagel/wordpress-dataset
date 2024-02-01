@@ -1,4 +1,4 @@
-![Header Image]([URL_OF_YOUR_IMAGE](https://raw.githubusercontent.com/jcmpagel/wordpress-dataset/main/Screenshot%202024-02-01%20110056.png))
+![Header Image](https://raw.githubusercontent.com/jcmpagel/wordpress-dataset/main/Screenshot%202024-02-01%20110056.png)
 # The WordPress Plugin Dataset
 
 ## Overview
