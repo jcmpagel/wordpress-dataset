@@ -1,3 +1,4 @@
+![Header Image]([URL_OF_YOUR_IMAGE](https://raw.githubusercontent.com/jcmpagel/wordpress-dataset/main/Screenshot%202024-02-01%20110056.png))
 # The WordPress Plugin Dataset
 
 ## Overview
@@ -31,8 +32,8 @@ Sourced directly from the WordPress Plugin Repository, this dataset provides a c
 - **rating_1** to **rating_5**: The number of ratings for each star level (1 to 5).
 
 ### File Structure
-- `wordpress_sample.csv`: The core file of the dataset, containing detailed information on a wide range of plugins.
-- `wordpress_sample.csv`: Represent all plugins which are banned from the offical repository for security or copyright issues, therefore there is not more data available.
+- `Wordpress_active_plugins.csv`: The core file of the dataset, containing detailed information on a wide range of plugins.
+- `Non_available_worpress_plugins.csv`: Represent all plugins which are banned from the offical repository for security or copyright issues, therefore there is not more data available.
 
 ## Usage
 This dataset is openly available and is governed by [specify license, e.g., MIT, Creative Commons, etc.]. It is an essential resource for a diverse range of purposes, including:
