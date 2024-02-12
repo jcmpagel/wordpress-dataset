@@ -40,7 +40,3 @@ This dataset is openly available and is governed by [specify license, e.g., MIT,
 - **Developers:** Gaining insights into market demands or drawing inspiration for plugin development.
 - **Researchers:** Conducting comprehensive analyses on trends, user behavior, or the developmental trajectory of the WordPress plugin ecosystem.
 - **Content Creators and Bloggers:** Crafting well-informed content, reports, or analyses centered on WordPress plugins.
-
-
-## Acknowledgements
-This dataset represents a comprehensive effort to scrape and analyze data from the official WordPress Plugin Repository.
